@@ -1,0 +1,20 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "Social Media Api",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Rohit Bhatt",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "ejs": "^7.0.1",
+    "express": "^5.3.0",
+    "mongoose": "^9.7.0",
+    "nodemailer": "^10.1.0",
+    "nodemon": "^3.1.14"
+  }
+}
